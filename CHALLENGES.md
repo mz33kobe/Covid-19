@@ -154,5 +154,5 @@ In order to submit a valid project, please follow the submission process and rul
 
  # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]
 <p align="center">
-<img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/>
+<img src="https://github.com/mz33kobe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/>
 </p>

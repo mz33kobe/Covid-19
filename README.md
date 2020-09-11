@@ -83,5 +83,5 @@ A collection of awesome COVID-19 tools built to help Global health organizations
 
  # \[ 🚧👷‍♀️⛏ Work in Progress 🔧️👷🚧 \]
 <p align="center">
-<img src="https://github.com/JacksiroKe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/>
+<img src="https://github.com/mz33kobe/Covid-19/blob/master/covid.jpg "CoronaVirus Disease 2019 Banner"/>
 </p>
